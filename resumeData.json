@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name": "Pulkit Saxena",
+    "occupation": "Web Devloper,",
+    "employer": "Aetna, A CVS Health Company",
+    "description": "crafting rich, interactive user experiences for Aetna web platforms. I work closely with designers, development teams, marketing managers and business analysts to deliver robust scalable solutions to meet our digital marketing needs.",
+    "role": "Adv. Software Development Enigneer",
+    "image": "profilepic.jpg",
+    "bio": "I am an experienced frontend developer with a love of building out great, scalable user interfaces. I enjoy programming as well as collaborating with designers. I have experience in working for Healthcare, Banking and Tech Organizations. I grew up in Lucknow, India before moving to USA with my wife. I am blessed with a beautiful daughter (Shanaya) and son (Kiaansh). My passion include food, travelling, cricket and computer games.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or reach out to me on phone.",
+    "email": "psaksena85@gmail.com",
+    "phone": "978-378-5548",
+    "address": {
+      "street": "36 Royal Crest Dr",
+      "city": "Nashua",
+      "state": "New Hampshire",
+      "zip": "03060"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/PSaksena",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pulkit-saxena-67023a34/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/psaksena85/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Uttar Pradesh Technical University",
+        "degree": "Bachelors of Technology in Electronics and Instrumentation",
+        "graduated": "June 2008"
+      }
+    ],
+    "work": [
+      {
+        "company": "Aetna, A CVS Health Company",
+        "location": "Burlington, MA",
+        "title": "Adv. Software Development Engineeer",
+        "years": "October 2017 - Present",
+        "description": "Craft rich, interactive user experiences for Aetna web platforms. Build high quality user experiences and architectural planning for front-end technology. Collaborate on data formats and APIS with other business teams internally. Work closely with designers, development teams, marketing managers and business analysts to deliver robust scalable solutions to meet our digital marketing needs. Design and build a robust framework that supports component and template reuse across different brand sites. Establishes strong, effective, working relationships with the client base across the organization."
+      },
+      {
+        "company": "Apple Inc.",
+        "location": "Sunnyvale, CA",
+        "title": "Senior Web Developer",
+        "years": "March 2017 - October 2017",
+        "description": "Develop and support Store Attribute Management System, a web application used to create and manage various apple stores. Project involved migrating the existing application from jsp to angular along with merging Store Directory and existing SAMS application. The new application will the to go point where internal user can manage all the store related attributes."
+      },
+      {
+        "company": "EMD Millipore",
+        "location": "Burlington, MA",
+        "title": "Senior Web Developer",
+        "years": "May 2016 - March 2017",
+        "description": "Develop and support pilot website for Corporate Website. Also involved in the development of various brand sites and microsites. Provide the frontend implementation for AEM development."
+      },
+      {
+        "company": "Apple Inc.",
+        "location": "Sunnyvale, CA",
+        "title": "Senior Web Developer",
+        "years": "Dec 2014 - April 2016",
+        "description": "Developed and supported enhancement of Apple Online Store."
+      },
+      {
+        "company": "Citi",
+        "location": "India",
+        "title": "Web Developer",
+        "years": "September 2012 - November 2014",
+        "description": "Developed and supported an intranet web application which allows Financial Consultants to enter information for an existing client, submit Qualifying Questionnaire, request subscription documents and send out marketing materials for Alternative Investment products. Functionality supports generating a Qualifying Questionnaire for client or prospect and distributing fund subscription and marketing materials. Order entry functionality supports Placement and Processing of IOI (Indication of Interests). Admin Functionality is generally used to Administer Users, Funds, etc. and generates Reports on the application."
+      },
+      {
+        "company": "American Express",
+        "location": "India",
+        "title": "Web Developer",
+        "years": "May 2012 - Auguest 2012",
+        "description": "Developed and supported a system used for procuring records, store and distribute the offer and their details applicable for American Express card members. System interacted with various third party applications to get offer details and provided multiple channel of communication to source and placement opportunities to send and receive offers."
+      },
+      {
+        "company": "Citi",
+        "location": "India",
+        "title": "Web Developer",
+        "years": "May 2012 - Auguest 2012",
+        "description": "Developed and supported Know-Your-Customer (KYC) process which performed due diligence when accepting, or renewing periodically, a business relationship. Orocess ensuresed compliance with KYC requirements; Customer Identification Program Procedures (CIP-P) and other regulatory requirements intended to protect Citi from being used for money-laundering or terrorist financing. CitiKYC is envisioned to be the centralized repository for all KYC data across businesses, sectors and regions. Project scope comprised of creating rich user interface for adding, closing and modifying existing KYC records & Account profile, Report generation and graphical Dashboard. Also developed and supported Global MIS dashboard which provided a graphical view of consistent client and product information globally to aid senior business leaders in monitoring and measuring key business metrics on a daily basis."
+      },
+      {
+        "company": "Citi",
+        "location": "India",
+        "title": "Web Developer",
+        "years": "May 2012 - Auguest 2012",
+        "description": "Developed and supported Know-Your-Customer (KYC) process which performed due diligence when accepting, or renewing periodically, a business relationship. Orocess ensuresed compliance with KYC requirements; Customer Identification Program Procedures (CIP-P) and other regulatory requirements intended to protect Citi from being used for money-laundering or terrorist financing. CitiKYC is envisioned to be the centralized repository for all KYC data across businesses, sectors and regions. Project scope comprised of creating rich user interface for adding, closing and modifying existing KYC records & Account profile, Report generation and graphical Dashboard. Also developed and supported Global MIS dashboard which provided a graphical view of consistent client and product information globally to aid senior business leaders in monitoring and measuring key business metrics on a daily basis."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Attain By Aetna",
+        "category": "Rewards for real health",
+        "image": "AttainByAetna.png",
+        "url": "https://www.attainbyaetna.com/"
+      },
+      {
+        "title": "Aetna Com",
+        "category": "You don't join us, we join you",
+        "image": "AetnaCom.png",
+        "url": "https://www.aetna.com/"
+      },
+      {
+        "title": "Aetna Medicare",
+        "category": "View medicare options",
+        "image": "AetnaMedicare.png",
+        "url": "https://www.aetnamedicare.com/"
+      },
+      {
+        "title": "Health Check",
+        "category": "Check you out",
+        "image": "HealthCheck.png",
+        "url": "https://www.aetna.com/healthcheck"
+      },
+      {
+        "title": "CVS Kidney Care",
+        "category": "A new focus on kidney care",
+        "image": "CVSKidneyCare.png",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Pulkit is a highly skilled UI developer, always seeking to do the right thing in code development. For over a year that I worked with him, he was a dedicated and responsible UI developer delivering his work in a timely manner. He wrote clean, reusable quality code, and was keen on details of website designs and technical functions. In addition, he was excellent in collaboration and coordination with global teams. I would recommend him gladly.",
+        "user": "Joo Young Eom",
+        "linkedin": "https://www.linkedin.com/in/jooyoungeom"
+      },
+      {
+        "text": "Pulkit is a fantastic hands-on UI implementation who can take Architecture level decisions backed by detailed understanding of the problem at the code level. Pulkit is a very knowledgeable resource and has a great attitude. He follows a thorough approach in monitoring very minute details. He understands deadlines and builds project strategies based on priority .He would be great asset to any organization. He is very dedicated and hardworking individual. His never say no attitude has and will help him to go a long way. I would like to work with him any day.",
+        "user": "Kamal Babu Malliam Munirathnam",
+        "linkedin": "https://www.linkedin.com/in/kamal-babu-malliam-munirathnam-7601815/"
+      }
+    ]
+  }
+}
