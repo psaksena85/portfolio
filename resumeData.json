@@ -35,7 +35,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/psaksena85",
         "className": "fa fa-github"
       }
     ]
@@ -76,7 +76,7 @@
         "location": "Sunnyvale, CA",
         "title": "Senior Web Developer",
         "years": "Dec 2014 - April 2016",
-        "description": "Developed and supported enhancement of Apple Online Store."
+        "description": "Developed and supported enhancement of Apple Online Store. Apple Online store is an eCommerce site used by Apple customers to purchase Apple lifestyle products, which includes Mac based notebooks, iPod, iPads, iPhone and other related accessories. Project involves maintenance and enhancement of Apple Online Store based on customers recommendations."
       },
       {
         "company": "Citi",
@@ -89,22 +89,36 @@
         "company": "American Express",
         "location": "India",
         "title": "Web Developer",
-        "years": "May 2012 - Auguest 2012",
-        "description": "Developed and supported a system used for procuring records, store and distribute the offer and their details applicable for American Express card members. System interacted with various third party applications to get offer details and provided multiple channel of communication to source and placement opportunities to send and receive offers."
+        "years": "March 2012 - August 2012",
+        "description": "Developed and supported a system used for procuring records, store and distribute the offer and their details applicable for American Express card members. System interacted with various third-party applications to get offer details and provided multiple channel of communication to source and placement opportunities to send and receive offers."
       },
       {
         "company": "Citi",
         "location": "India",
         "title": "Web Developer",
-        "years": "May 2012 - Auguest 2012",
-        "description": "Developed and supported Know-Your-Customer (KYC) process which performed due diligence when accepting, or renewing periodically, a business relationship. Orocess ensuresed compliance with KYC requirements; Customer Identification Program Procedures (CIP-P) and other regulatory requirements intended to protect Citi from being used for money-laundering or terrorist financing. CitiKYC is envisioned to be the centralized repository for all KYC data across businesses, sectors and regions. Project scope comprised of creating rich user interface for adding, closing and modifying existing KYC records & Account profile, Report generation and graphical Dashboard. Also developed and supported Global MIS dashboard which provided a graphical view of consistent client and product information globally to aid senior business leaders in monitoring and measuring key business metrics on a daily basis."
+        "years": "June 2011 - March 2012",
+        "description": "Developed and supported Know-Your-Customer (KYC) process which performed due diligence when accepting, or renewing periodically, a business relationship. Process ensured compliance with KYC requirements; Customer Identification Program Procedures (CIP-P) and other regulatory requirements intended to protect Citi from being used for money-laundering or terrorist financing. Citi-KYC is envisioned to be the centralized repository for all KYC data across businesses, sectors and regions. Project scope comprised of creating rich user interface for adding, closing and modifying existing KYC records & Account profile, Report generation and graphical Dashboard. Developed and supported Global MIS dashboard which provided a graphical view of consistent client and product information globally to aid senior business leaders in monitoring and measuring key business metrics on a daily basis."
       },
       {
-        "company": "Citi",
+        "company": "AstraZeneca, Canada",
         "location": "India",
         "title": "Web Developer",
-        "years": "May 2012 - Auguest 2012",
-        "description": "Developed and supported Know-Your-Customer (KYC) process which performed due diligence when accepting, or renewing periodically, a business relationship. Orocess ensuresed compliance with KYC requirements; Customer Identification Program Procedures (CIP-P) and other regulatory requirements intended to protect Citi from being used for money-laundering or terrorist financing. CitiKYC is envisioned to be the centralized repository for all KYC data across businesses, sectors and regions. Project scope comprised of creating rich user interface for adding, closing and modifying existing KYC records & Account profile, Report generation and graphical Dashboard. Also developed and supported Global MIS dashboard which provided a graphical view of consistent client and product information globally to aid senior business leaders in monitoring and measuring key business metrics on a daily basis."
+        "years": "February 2011 - May 2011",
+        "description": "Developed and supported document management system - LiveLink which acted as a central repository for all the documents and acts as an engine to automate business process using workflows. LiveLink internally branded as EINSTEIN a bronze service class application which served around 1100 users across AstraZeneca Canada."
+      },
+      {
+        "company": "AstraZeneca, UK",
+        "location": "India",
+        "title": "Web Developer",
+        "years": "September 2010 - January 2011",
+        "description": "Your.AZ is an intranet portal that has been developed for hosting information on News, Policies, Products and Organization related details to over 75,000 employees of AstraZeneca across the globe. Your.AZ is a critical set, platinum service class application which has been developed using Vignette. ‘Vignette Application Portal’ acts as the front end with ‘Vignette Content Management System’ as the back end."
+      },
+      {
+        "company": "Hannaford",
+        "location": "India",
+        "title": "Web Developer",
+        "years": "July 2009 - August  2010",
+        "description": "Hannaford is a food Retail chain in US, Maine. The project was on development of the Intranet Site of Hannaford on the WebSphere Portal 6.1 and IBM Web Content Management 6.1"
       }
     ],
     "skills": [
